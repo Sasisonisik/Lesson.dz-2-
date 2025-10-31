@@ -1,0 +1,28 @@
+.name {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.des {
+  font-size: 18px;
+  text-transform: uppercase;
+  text-align: right;
+}
+.blia {
+  background: linear-gradient(to bottom, rgb(238, 245, 248), rgb(21, 169, 233));
+}
+h1 {
+  font-size: 80px;
+  margin-left: 77px;
+  margin-top: 76px;
+}
+.Vid {
+  font-size: 16px;
+  text-align: right;
+  margin-top: 76px;
+  margin-right: 77px;
+}
+.korobka {
+  display: flex;
+  margin-left: 77px;
+  margin-top: 94px;
+}
