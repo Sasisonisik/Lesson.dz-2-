@@ -1,6 +1,7 @@
-.name {
+.Zola {
   font-size: 18px;
   text-transform: uppercase;
+  text-align: left;
 }
 .des {
   font-size: 18px;
@@ -21,10 +22,14 @@ h1 {
   margin-top: 76px;
   margin-right: 77px;
 }
-.korobka {
+.container {
+  background: linear-gradient(to bottom, #f8f5cc, #c9d63e);
+}
+.sec1 {
   background-color: #ffffff;
   width: 500px;
   padding-top: 50px;
+  font-size: 25px;
   height: auto;
 }
 h2 {
@@ -48,4 +53,10 @@ h3 {
 .zagol2 {
   font-size: 35px;
   padding-left: 150px;
+}
+.sec12 {
+  background-color: #ffffff;
+  width: 500px;
+  margin-left: 300px;
+  height: auto;
 }
